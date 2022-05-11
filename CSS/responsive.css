@@ -1,0 +1,28 @@
+@media only screen and (max-width:600px) {
+    #header {
+       display: none;
+    }
+    #slider {
+        min-height: 90%;
+        height: 614px;
+    }
+    .text {
+        font-size: 52px;
+        font-weight: bold;
+    }
+    .menu-btn {
+        font-size: 28px;
+    }
+    .menu-item {
+        height: 1500px;
+    }
+    .desc-1, .desc-2, .desc-3, .desc-4, .desc-5, .desc-6 {
+        font-size: 24px;
+    }
+    .contact-container {
+        height: 1000px;
+    }
+    .about_container {
+        height: 1318px;
+    }
+}
